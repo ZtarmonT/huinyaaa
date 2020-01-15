@@ -1,0 +1,16 @@
+.content_block{
+    background: #abd4ab;
+    padding: 100px;
+}
+
+
+
+.active_link_side{
+    background: #b543a0;
+    color: white !important;
+    padding: 3px 23px 3px 23px;
+    border-radius: 90px;
+}
+
+
+

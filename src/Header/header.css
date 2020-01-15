@@ -1,0 +1,19 @@
+.Head{
+    padding: 10px;
+    background: white;
+    border-bottom: 1px solid gray;
+}
+.logo{
+    background: #b543a0;
+    color: white;
+}
+.menu .list_menu{
+    list-style: none;
+    display: flex;
+    margin: 0 auto;
+    
+}
+.menu .list_menu li{
+    margin-left: 20px;
+    margin: 0 auto;
+}

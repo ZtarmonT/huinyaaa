@@ -1,0 +1,86 @@
+.form_block{
+    background: white;
+    border: 1px solid gray;
+    height: 400px;
+}
+
+.side{
+    margin: 15px 0px 0px 0px;
+    width: 350px;
+    border: 1px solid gray;
+    border-radius: 90px;
+}
+.side .col-6{
+    padding: 4px;
+}
+.side .col-6 span{
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+}
+.input_insideot,
+.input_insidekuda{
+    width: 100%;
+    height: 40px;
+    padding: 0 40px 0 30px;
+    border: 1px solid #ccc;
+    -webkit-box-shadow: inset 0 0 3px rgba(0,0,0,.1);
+    box-shadow: inset 0 0 3px rgba(0,0,0,.1);
+    border-radius: 5px;
+    font-size: 16px!important;
+    color: #656565!important;
+}
+
+.city{
+    padding-top: 20px;
+}
+.icon_map_tick{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+}
+.icon_map_tick img{
+    width: 60%;
+    position: absolute;
+    top: 8px;
+    left: 5px;
+    
+}
+.logo a{
+    color:white;
+}
+.list_menu li a.active{
+    color: #b543a0;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.city .col-md-1 img{
+    width: 40%;
+  }
+  .tab1{
+      margin-top: 20px;
+      border-bottom: 0px !important;
+  }
+  .tab1 a.active{
+    background: #b543a0 !important;
+    color: white !important;
+    padding: 0.3rem 1rem !important;
+    border-radius: 90px;
+}
+
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover ,.nav-tabs .nav-link {
+    border-color: #cccccc;
+    border-radius: 90px;
+}
+
+.tab1 a{
+    color: #b543a0;
+    margin-right: 15px;
+}
+.city .col-md-5{
+    padding: 0px !important;
+}
+.img_avatar_user{
+    width: 10%;
+}
