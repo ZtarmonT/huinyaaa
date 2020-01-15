@@ -13,9 +13,9 @@ import Avauser from '../Test/avauser/avauser.js';
 const Test = (props) => {
 
     let nameusers = [
-        {id: 'Mihail', name: 'Mihail'},
-        {id: 'Alex', name: 'Alex'},
-        {id: 'Roma', name: 'Roma'}
+        {id: 'Mihail1', name: 'Mihail'},
+        {id: 'Alex1', name: 'Alex'},
+        {id: 'Roma1', name: 'Roma'}
     ]
 
     let messages = [
