@@ -21,7 +21,7 @@ const Header = () => {
           
           <Col md={10} className="menu">
             <ul className="list_menu">
-              <li> <NavLink to="/gdtickets">ЖД Билеты</NavLink></li>
+              <li> <NavLink to="/gdtickets">ЖД Билеты1</NavLink></li>
               <li> <NavLink to="/bustickets">Автобусы</NavLink></li>
               <li> <NavLink to="/airtickets">Авиабилеты</NavLink></li>
               <li> <NavLink to="/test">test</NavLink></li>
