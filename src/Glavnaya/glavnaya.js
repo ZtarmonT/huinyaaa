@@ -15,7 +15,7 @@ const Glavnaya = () => {
 
           <Container className="form_block">
 
-          Контент главной страницы
+          Контент главной страницы1
 
           </Container>
 
