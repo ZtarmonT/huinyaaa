@@ -21,11 +21,11 @@ const Airtickets = () => {
               <span class="icon_map_tick"><img src="http://s1.iconbird.com/ico/2013/6/280/w512h5121371488614places512.png"/></span>
                 <input type="text" placeholder="От куда111" maxLength="40" className="input_insideot"/>
                 <ListGroup>
-                <ListGroup.Item>Cras justo odio</ListGroup.Item>
-                <ListGroup.Item>Dapibus ac facilisis in</ListGroup.Item>
-                <ListGroup.Item>Morbi leo risus</ListGroup.Item>
-                <ListGroup.Item>Porta ac consectetur ac</ListGroup.Item>
-                <ListGroup.Item>Vestibulum at eros</ListGroup.Item>
+                <ListGroup.Item>Cras justo odio1</ListGroup.Item>
+                <ListGroup.Item>Dapibus ac facilisis in1</ListGroup.Item>
+                <ListGroup.Item>Morbi leo risus1</ListGroup.Item>
+                <ListGroup.Item>Porta ac consectetur ac1</ListGroup.Item>
+                <ListGroup.Item>Vestibulum at eros1</ListGroup.Item>
               </ListGroup>
               </Col>
               <Col md={1}>
